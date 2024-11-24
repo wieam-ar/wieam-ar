@@ -18,7 +18,7 @@
 
 ### 🗄️ Databases  
 - **MySQL**  
-- **NoSQL**  
+
 
 ---
 
