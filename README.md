@@ -25,7 +25,12 @@
 ## ✨ About Me  
 - 📚 Constantly learning new technologies and expanding my skills.  
 - 🌱 Currently focused on improving my full-stack development knowledge.  
-- 🤝 Open to collaboration on interesting projects!  
+- 🤝 Open to collaboration on interesting projects!
+
+
+https://github-readme-stats.vercel.app/api?username=AymenZemrani&show_icons=true&theme=radical
+
+
 
 ---
 
