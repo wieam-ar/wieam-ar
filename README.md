@@ -28,7 +28,6 @@
 - 🤝 Open to collaboration on interesting projects!
 
 
-https://github-readme-stats.vercel.app/api?username=AymenZemrani&show_icons=true&theme=radical
 
 
 
