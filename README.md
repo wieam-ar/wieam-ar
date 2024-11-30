@@ -27,22 +27,6 @@
 - 🌱 Currently focused on improving my full-stack development knowledge.  
 - 🤝 Open to collaboration on interesting projects!
 
-### Technologies I Work With:
-
-https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge
-https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=for-the-badge
-https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white&style=for-the-badge
-https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge
-https://img.shields.io/badge/-SQL-black?logo=postgresql&logoColor=white&style=for-the-badge
-https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white&style=for-the-badge
-https://img.shields.io/badge/-Bootstrap-blueviolet?logo=bootstrap&logoColor=white&style=for-the-badge
-
-### My GitHub Stats 📊
-
-https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical
-
-
-
 
 
 
