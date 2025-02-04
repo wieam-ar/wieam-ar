@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wieam!  
+# 👋 Hi, I'm Wiam!  
 
 <div align="left">
   <img height="600" with="200" src="https://images.pexels.com/photos/305215/pexels-photo-305215.jpeg?cs=srgb&dl=code-coding-programmer-305215.jpg&fm=jpg"
@@ -59,6 +59,7 @@
 ## 📬 Let's Connect  
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">  
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wiam_ar" height="30" width="40" /></a>   
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wiam_ar" height="30" width="40" /></a>
@@ -66,3 +67,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
 </a>
 </p>
+----
+<div align="center">
+  &copy;Made by love Wiam AARIKA💕
+</div>
