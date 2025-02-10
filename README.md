@@ -56,18 +56,6 @@
 
 ---
 
-## 📬 Let's Connect  
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">  
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wiam_ar" height="30" width="40" /></a>   
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wiam_ar" height="30" width="40" /></a>
-<a href="http://wa.me/+212604804145" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
-</a>
-</p>
-----
 <div align="center">
   &copy;Made by love Wiam AARIKA💕
 </div>
