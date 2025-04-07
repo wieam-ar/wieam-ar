@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Wiam!  
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=f19cbb&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=Hello+i'm+wiam!+😍;" />
+</h1>
 
 <div align="left">
   <img height="600" with="200" src="https://images.pexels.com/photos/305215/pexels-photo-305215.jpeg?cs=srgb&dl=code-coding-programmer-305215.jpg&fm=jpg"
@@ -34,6 +36,8 @@
 
 
 ---
+<p align="center"> <img with="500" src="https://gifdb.com/images/high/penguin-data-coding-animation-sxihbi0j123pp3uv.gif" alt="wiam" /> </p>
+
 <h3 align="left">✨✨Languages and Tools:</h3>
 
 <p align="center">
@@ -43,7 +47,7 @@
 
                     
        
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wieam-ar&show_icons=true&locale=en&layout=compact" alt="wieam-ar" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wieam-ar&show_icons=true&locale=en&layout=compact" alt="wieam-ar" /></p>
 
 
 ## ✨ About Me  
