@@ -3,7 +3,7 @@
 </h1>
 
 <div align="left">
-  <img height="600" with="200" src="https://images.pexels.com/photos/305215/pexels-photo-305215.jpeg?cs=srgb&dl=code-coding-programmer-305215.jpg&fm=jpg"
+  <img height="600" with=300" src="https://images.pexels.com/photos/305215/pexels-photo-305215.jpeg?cs=srgb&dl=code-coding-programmer-305215.jpg&fm=jpg"
   />
 </div>
 ###
